@@ -7,3 +7,5 @@ Also optional are o-rings between pcb and case. I used what was on-hand, but hav
 STACKED CASE
 
 Left & Right side files are provided for materials where there may be difference in surface finish between top and bottom, i.e. metal. Otherwise, files are identical
+
+Uses M3x20 bolts
