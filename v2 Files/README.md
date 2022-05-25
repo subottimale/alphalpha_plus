@@ -1,6 +1,6 @@
 Latest iteration adds a new bottom row option (1, 2, 2, 1) and a large flex cut above the exploded space bar section
 
-Uses M2 hardware and standard 1N4148 SOD323 diodes
+Uses M2 hardware and standard 1N4148 SOD123 diodes
 
 Stacked edge case files are available - this is the only case design currently offered
 
