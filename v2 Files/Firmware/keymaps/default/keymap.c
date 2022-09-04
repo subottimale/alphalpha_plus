@@ -106,7 +106,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TILD, KC_CAPS, KC_F2, KC_F4, KC_F12, KC_F7, KC_F11, KC_NO, ALT_ENT, ALT_TAB,
 		KC_ESC, KC_TAB, KC_LALT, KC_BSPC, KC_DEL, KC_SLSH, KC_LSFT, KC_TRNS, KC_NO, KC_LCTL,
 		KC_LALT, UNDO, KC_LSFT, KC_NO, KC_NO, KC_NO, KC_LEAD, KC_NO, RESET,
-    KC_NO, KC_NO, KC_SCROLLLOCK, KC_NO, KC_NO, KC_NO, KC_NO
+    KC_SCROLLLOCK, KC_NO, KC_SCROLLLOCK, KC_NO, KC_NO, KC_NO, KC_NO
     ),
 
   [_NUM] = LAYOUT(
@@ -153,5 +153,16 @@ bool get_tapping_force_hold(uint16_t keycode, keyrecord_t *record) {
             return true;
         default:
             return false;
+    }
+}
+
+uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
+    switch (keycode) {
+        case LSFT_T(KC_A):
+            return 120;
+        case LCTL_T(KC_L):
+            return 120;
+        default:
+            return TAPPING_TERM;
     }
 }
