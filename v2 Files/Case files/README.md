@@ -20,3 +20,24 @@ Slim assemlby uses 18mm screws and one less plate on the bottom
 
 **3DP Case**
 <br />Assembly: just screw the pcb to the case. Maybe use some o-rings. Also maybe use some self-tapping screws to start the threads
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />![sneaky tray case teaser](https://user-images.githubusercontent.com/69826495/193649231-fd8a9301-f757-49a4-bd29-7c114d8f73d8.jpeg)
