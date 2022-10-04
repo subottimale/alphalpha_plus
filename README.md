@@ -1,5 +1,5 @@
 # Alphalpha+ 30% keyboard
-Inspired by the iconinc Alpha from PyroL, featuring an extra alpha key and spacebar
+Inspired by the iconic Alpha from PyroL (https://github.com/PyrooL/Alpha), featuring an extra alpha key and spacebar
 
 ![Alphalpha Plus 3DP blue](https://user-images.githubusercontent.com/69826495/156270772-394afc01-1d1c-4c15-9df5-71d0f3ecb21b.jpg)
 
