@@ -4,7 +4,7 @@
 
 Regardless of what kind of stacks you cut, max height on top of pcb is 6mm. Max height on bottom is up to you
 
-Full size setup assembly (o-rings optional but recommended): 
+Full size setup assembly (o-rings optional but strongly recommended): 
 <br />20mm screw
 <br />plate
 <br />plate
@@ -18,26 +18,12 @@ Full size setup assembly (o-rings optional but recommended):
 
 Slim assemlby uses 18mm screws and one less plate on the bottom
 
-**3DP Case**
-<br />Assembly: just screw the pcb to the case. Maybe use some o-rings. Also maybe use some self-tapping screws to start the threads
+**3DP Cases**
+<br />require heatsets https://www.mcmaster.com/94459a110/ work well
+<br />Assembly: 
+<br /> 1) install heatsets
+<br /> 2) screw the pcb to the case. O-rings work with the tray, haven't tested with the shell
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />![sneaky tray case teaser](https://user-images.githubusercontent.com/69826495/193649231-fd8a9301-f757-49a4-bd29-7c114d8f73d8.jpeg)
+![Turbo Time](https://user-images.githubusercontent.com/69826495/205989515-a9b2c32c-3d0e-41ea-acb0-98654d45104b.jpeg)
