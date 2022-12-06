@@ -1,4 +1,4 @@
-This iteration adds new bottom row options (1-2-2-1, 1.5-3-1.5, 1-4-1) and a mondo flex cut above the exploded space bar section
+This iteration adds new bottom row options (http://www.keyboard-layout-editor.com/#/gists/7b2dbd502e5ef98d23a2ff15da0d303e) and a mondo flex cut above the exploded space bar section
 
 If you've gone absolutely mad enough to order this, you'll need: 36 diodes (14N4148 SOD123), pro micro or equivalent, M2 hardware (4-8 heatset inserts, 4 @ 4-6mm for 3dp case, 4-8 @ 18-20mm for stacked case). Optional: o-rings for isolation (2mm OD, 1.5mm ID work well). Oh and you should really get yourself some pro micro sockets and millmax pins, if you can swing 'em
 
