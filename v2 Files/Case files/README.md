@@ -20,6 +20,8 @@ Slim assemlby uses 18mm screws and one less plate on the bottom
 
 **3DP Cases**
 <br />require heatsets https://www.mcmaster.com/94459a110/ work well
+<br>
+Note: the Colossus case does not require heatsets, but can use them (recommend to try without first - screws thru case-pcb-case)
 <br />Assembly: 
 <br /> 1) install heatsets
 <br /> 2) screw the pcb to the case. O-rings work with the tray, haven't tested with the shell
