@@ -11,8 +11,14 @@ PLA prints work just fine for these cases; give MJF or SLS a try for a more upsc
 <br />
 <br/>
 I highly recommend some amont of isolation mounting for moar fun. Burger for the stacked case, single set of rings between pcb and 3dp tray case, shell case tbd
+<br>
+<br>
+The Colossus case is the latest addition, morphing the edge plate design into a plateless sandwich. So many crumbs everywhere...
 
 ![AA Plus on the Moon](https://user-images.githubusercontent.com/69826495/190079420-76a7e22c-5dce-4041-8401-4c8c0386efc1.JPG)
 ![AA_Plus v2 lights](https://user-images.githubusercontent.com/69826495/163284869-7f7f8d73-4db2-46bc-86d3-8177039e06ae.jpg)
 ![AA_Plus v2 angle](https://user-images.githubusercontent.com/69826495/163284863-db19648b-e60c-46e3-86d4-a223c2035fd7.JPG)
 ![RGB Tray](https://user-images.githubusercontent.com/69826495/205992837-4c4bdaf7-59b6-4624-a0e7-64e055d300af.jpeg)
+![AA Plus_moon overhead](https://github.com/subottimale/alphalpha_plus/assets/69826495/18bef92a-03ef-4cb6-9e3d-2fbec5f19639)
+![AA Plus_moon low angle](https://github.com/subottimale/alphalpha_plus/assets/69826495/912004a1-e0e5-45b4-94fe-aebf31c84c6a)
+![AA Plus_moon day LED angle](https://github.com/subottimale/alphalpha_plus/assets/69826495/7f4d5ad5-12ee-46ac-9973-b3396b4a50df)
