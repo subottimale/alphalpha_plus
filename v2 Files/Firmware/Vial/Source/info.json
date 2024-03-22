@@ -1,0 +1,77 @@
+{
+    "manufacturer": "OTTIMO",
+    "keyboard_name": "alphalpha_plus",
+    "maintainer": "HaiZeus",
+    "processor": "atmega32u4",
+    "bootloader": "atmel-dfu",
+    "usb": {
+        "vid": "0x0411",
+        "pid": "0x0412",
+        "device_version": "0.1.0"
+    },
+    "features": {
+        "audio": false,
+        "backlight": false,
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "encoder": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "rgblight": false,
+        "rgb_matrix": true
+    },
+    "rgb_matrix": {
+        "led_count": 16,
+        "driver": "ws2812"
+    },
+    "ws2812": {
+        "driver": "vendor",
+        "pin": "F4"
+    },
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["D1", "D0", "D4", "C6", "B6", "B2", "B3", "B1", "F7", "F6"],
+        "rows": ["D7", "B5", "B4", "E6"]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0.0, "y": 0.0 },
+                { "matrix": [0, 1], "x": 1.0, "y": 0.0 },
+                { "matrix": [0, 2], "x": 2.0, "y": 0.0 },
+                { "matrix": [0, 3], "x": 3.0, "y": 0.0 },
+                { "matrix": [0, 4], "x": 4.0, "y": 0.0 },
+                { "matrix": [0, 5], "x": 5.0, "y": 0.0 },
+                { "matrix": [0, 6], "x": 6.0, "y": 0.0 },
+                { "matrix": [0, 7], "x": 7.0, "y": 0.0 },
+                { "matrix": [0, 8], "x": 8.0, "y": 0.0 },
+                { "matrix": [0, 9], "x": 9.0, "y": 0.0 },
+                { "matrix": [1, 0], "x": 0.0, "y": 1.0 },
+                { "matrix": [1, 1], "x": 1.0, "y": 1.0 },
+                { "matrix": [1, 2], "x": 2.0, "y": 1.0 },
+                { "matrix": [1, 3], "x": 3.0, "y": 1.0 },
+                { "matrix": [1, 4], "x": 4.0, "y": 1.0 },
+                { "matrix": [1, 5], "x": 5.0, "y": 1.0 },
+                { "matrix": [1, 6], "x": 6.0, "y": 1.0 },
+                { "matrix": [1, 7], "x": 7.0, "y": 1.0 },
+                { "matrix": [1, 8], "x": 8.0, "y": 1.0 },
+                { "matrix": [1, 9], "x": 9.0, "y": 1.0 },
+                { "matrix": [2, 1], "x": 0.5, "y": 2.0 },
+                { "matrix": [2, 2], "x": 1.5, "y": 2.0 },
+                { "matrix": [2, 3], "x": 2.5, "y": 2.0 },
+                { "matrix": [2, 4], "x": 3.5, "y": 2.0 },
+                { "matrix": [2, 5], "x": 4.5, "y": 2.0 },
+                { "matrix": [2, 6], "x": 5.5, "y": 2.0 },
+                { "matrix": [2, 7], "x": 6.5, "y": 2.0 },
+                { "matrix": [2, 8], "x": 7.5, "y": 2.0 },
+                { "matrix": [2, 9], "x": 8.5, "y": 2.0 },
+                { "matrix": [3, 2], "x": 2.0, "y": 3.25 },
+                { "matrix": [3, 4], "w": 2.0, "x": 3.0, "y": 3.25 },
+                { "matrix": [3, 6], "w": 2.0, "x": 5.0, "y": 3.25 },
+                { "matrix": [3, 8], "x": 7.0, "y": 3.25 }
+            ]
+        }
+    }
+}
